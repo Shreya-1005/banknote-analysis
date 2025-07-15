@@ -4,6 +4,7 @@ A mini data analysis project exploring who appears on banknotes around the world
 
 ### 🎓 Project Source
 This project is part of the **Cisco Networking Academy's** - **Data Science Essentials with Python** course.
+---
 
 ### 🧠 Project Objective
 To analyze patterns in the appearance of historical figures on banknotes, specifically:
@@ -15,7 +16,7 @@ To analyze patterns in the appearance of historical figures on banknotes, specif
 - Which countries feature the oldest historical figures on their banknotes?
 - What percentage of individuals died at least 100 years before appearing on a banknote?
 - Which individuals appeared on a banknote just one year after their death?
-
+---
 
 ### 📊 Dataset 
 **"Who's in Your Wallet?"**  
@@ -30,6 +31,7 @@ Includes:
 - Death
 - first_death_diff
 - currency_code
+---
 
 ### 📌 Key Insights
 - Over **33.1%** of individuals were featured **more than 100 years after** their death.
