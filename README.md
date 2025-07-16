@@ -3,7 +3,8 @@
 A mini data analysis project exploring who appears on banknotes around the world.
 
 ### 🎓 Project Source
-### This project is part of the **Cisco Networking Academy's** - **Data Science Essentials with Python** course.
+This project is my attempt of the **Cisco Networking Academy's** - **Data Science Essentials with Python** course's open project.
+
 ---
 
 ### 🧠 Project Objective
